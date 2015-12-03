@@ -1,4 +1,4 @@
-directions = open("input/day3-input.txt").read()
+directions = open("../input/day3-input.txt").read()
 
 # Helper function to facilitate movement in a direction.
 def move(loc, direction):

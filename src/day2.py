@@ -1,4 +1,4 @@
-data = open("input/day2-input.txt")
+data = open("../input/day2-input.txt")
 
 # PART 1
 # How much total wrapping paper do we need?
